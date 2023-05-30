@@ -1,3 +1,3 @@
-In restaurant-hexocean directory
-npm install
+In 'restaurant-hexocean' directory  
+npm install  
 npm run dev
