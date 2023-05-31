@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple React application built using Vite, react-hook-form, zod, picocss. It contains a form with 3 required inputs - 'name', 'preparation_time', 'type' and 4 optional inputs - 'no_of_slices', 'diameter', 'spiceness_scale', 'slices_of_bread'.
+This is a simple application built using React, TypeScript, Vite, react-hook-form, zod, picocss. It contains a form with 3 required inputs - 'name', 'preparation_time', 'type' and 4 optional inputs - 'no_of_slices', 'diameter', 'spiceness_scale', 'slices_of_bread'.
 
 ## Installation
 
