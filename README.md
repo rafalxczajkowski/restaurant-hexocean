@@ -1,4 +1,4 @@
-# Application Name
+# Restaurant Hexocean
 
 ## Description
 
